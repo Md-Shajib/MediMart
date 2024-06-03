@@ -1,0 +1,42 @@
+#Navbar .logo{
+    height: 40px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.Nav-Header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-name{
+    display: flex;
+    flex-direction: row;
+}
+/* .nav-item{
+    display: flex;
+    flex-direction: row;
+} */
+.nav-item ul{}
+.nav-item ul li{
+    list-style: none;
+}
+.nav-item ul li a{
+    text-decoration: none;
+    padding: 0px 10px;
+    color: black;
+    font-weight: 400;
+}
+.addTocart-items{
+    display: flex;
+    flex-direction: row;
+}
+.addTocart{}
+.addTocart li{
+    list-style: none;
+}
+.addTocart li a{
+    text-decoration: none;
+    padding: 0px 10px;
+    color: #000;
+}
